@@ -17,7 +17,7 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 1. Remove Jokers from both decks and shuffle them together to form the game deck.
 2. Draw 10 cards (floors) from the game deck and place them face-down to form the tower.
 3. Create your hero by assigning the following stats:
-    * Health: 20
+    * Health: 30
     * Attack: 1d6
     * Defense: 1d4
     * Luck: 0
