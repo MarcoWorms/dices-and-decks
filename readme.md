@@ -8,9 +8,9 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 
 ## Components:
 
-1. RPG Dice Set (d4, d6, d8, d10, d12, d20)
-2. Two complete decks of cards
-3. A sheet of paper to track your progress and character stats
+1. RPG Dice Set (d4, d6, d8, d10, d12, d20).
+2. Two complete decks of cards.
+3. A sheet of paper to track your progress and character stats.
 
 ## Setup:
 
@@ -26,10 +26,10 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 
 On each floor of the tower, you'll encounter one of four possible events: Monster, Trap, Treasure, or Empty Room. Reveal the first card in the row to determine the event type:
 
-* 2-10: Monster (number = monster's health, d6 attack, d4 defense)
-* J, Q: Trap (J = easy, Q = hard)
-* K: Miniboss (monster with 10 health, d8 attack, d6 defense)
-* A: Treasure
+* 2-10: Monster (number = monster's health, d6 attack, d4 defense).
+* J, Q: Trap (J = easy, Q = hard).
+* K: Miniboss (monster with 10 health, d8 attack, d6 defense).
+* A: Treasure.
 
 ### Monster:
 
@@ -61,10 +61,14 @@ Draw a card from the game deck and consult the following list for your reward:
 * 10: Gain a luck point, increasing your luck modifier by 1.
 * J: Improve your defense die by one level (1d4 -> 1d6 -> 1d8…).
 * Q: Improve your attack die by one level (1d6 -> 1d8 -> 1d10…).
-* K: Gain a special ability. Choose one:
-    * Double Die (use once to double the value of any die)
-    * Evade (use once to avoid any damage)
-    * Heal (use once to restore 1d6 health).
+* K: Gain a special ability. Choose one now but use it whenever you want:
+    * Double Die: Use once to double the value of any die.
+    * Evade: Use once to avoid any damage.
+    * Heal: Use once to restore 1d6 health.
+    * Sneak: Use once to reroll your initiative roll, take the higher result.
+    * Lucky Charm: Use once to add +5 luck when disarming traps.
+    * Second Wind: Use once to regain 1d4 health when your hero dies.
+
 * A: Draw two more treasure cards and choose one to keep.
 
 Remember that when you draw a treasure card, you may choose to use the item immediately or save it for later, depending on your strategy and current situation in the game.
