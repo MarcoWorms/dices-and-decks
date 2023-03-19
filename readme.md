@@ -33,7 +33,7 @@ On each floor of the tower, you'll encounter one of four possible events: Monste
 
 ### Monster:
 
-1. Roll a d20 for initiative. If your roll is higher, you strike first; otherwise, the monster attacks first.
+1. Roll a d20 for initiative for you and one for the monster. If your roll is higher, you strike first; otherwise, the monster attacks first.
 2. On your turn, roll your attack die (d6) and subtract the monster's defense (d4) to determine damage dealt. Reduce the monster's health accordingly.
 3. On the monster's turn, roll the monster's attack (d6) and subtract your defense (d4) to determine damage dealt. Reduce your health accordingly.
 4. Continue alternating turns until either you or the monster has 0 health. If your health reaches 0, the game ends. If the monster's health reaches 0, you may draw a card as a reward (see "Treasure" below).
@@ -77,7 +77,7 @@ Dice Levels: 1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 -> 1d20 -> 2d10 -> 2d12 -> 2d20
 
 After beating the final floor in the tower, you have reached the boss room!
 
-* Health: 20 + (10 * prestige_level)
+* Health: 20
 * Attack: 1d10
 * Defense: 1d6
 
@@ -87,7 +87,11 @@ If you defeat the Boss congratulations, you can proceed to the next Prestige lev
 
 After beating the game you have now leveled up your prestige to 1. This means you can start a new game with 1 Curse Card that will increase the difficulty of your game. The curse card is drawn in step 2 of setup after the tower is drawn.
 
-Beating the game on prestige 1 unlocks prestige 2 and this can go on infinitely, each prestige adds 1 more curse card to be drawn on the start of a new game.
+Beating the game on prestige 1 unlocks prestige 2, beating 2 unlocks 3, and this can go on infinitely. Each prestige: 
+
+- Adds 1 more curse card to be drawn on the start of a new game.
+- Increase boss health by 10 times the prestige level, so in prestige 2 for example the boss has 20 extra health.
+- Increase monsters initiative roll by 2 for each prestige level.
 
 ### Curse Cards:
 
