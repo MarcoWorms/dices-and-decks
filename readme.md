@@ -24,7 +24,7 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 
 ## Gameplay:
 
-On each floor of the tower, you'll encounter one of four possible events: Monster, Trap, Treasure, or Empty Room. Reveal the first card in the row to determine the event type:
+On each floor of the tower, you'll encounter one of four possible events: Monster, Trap, Treasure, or Miniboss. Reveal the first card in the row to determine the event type:
 
 * 2-10: Monster (number = monster's health, d6 attack, d4 defense).
 * J, Q: Trap (J = easy, Q = hard).
