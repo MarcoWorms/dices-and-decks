@@ -85,7 +85,7 @@ If you defeat the Boss congratulations, you can proceed to the next Prestige lev
 
 ### Prestige:
 
-After beating the game you have now leveled up your prestige by 1. This means you can start a new game with 1 Curse Card that will increase the difficulty of your game. The curse card is drawn in step 2 of setup after the tower is drawn.
+After beating the game you have now leveled up your prestige to 1. This means you can start a new game with 1 Curse Card that will increase the difficulty of your game. The curse card is drawn in step 2 of setup after the tower is drawn.
 
 Beating the game on prestige 1 unlocks prestige 2 and this can go on infinitely, each prestige adds 1 more curse card to be drawn on the start of a new game.
 
