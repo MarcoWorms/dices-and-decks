@@ -27,7 +27,7 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 On each floor of the tower, you'll encounter one of four possible events: Monster, Trap, Treasure, or Empty Room. Reveal the first card in the row to determine the event type:
 
 * 2-10: Monster (number = monster's health, d6 attack, d4 defense)
-* J, Q, K: Trap (J = easy, Q = medium)
+* J, Q: Trap (J = easy, Q = hard)
 * K: Miniboss (monster with 10 health, d8 attack, d6 defense)
 * A: Treasure
 
@@ -45,13 +45,11 @@ On each floor of the tower, you'll encounter one of four possible events: Monste
 1. Roll a d20 and add your luck modifier.
 2. Compare the result to the trap's difficulty:
     - J (easy, 6+ to succeed)
-    - Q (medium, 10+ to succeed)
-    - K (hard, 14+ to succeed)
+    - Q (hard, 12+ to succeed)
 - If you succeed, you disarm the trap.
 - If you fail, you suffer damage according to the trap's difficulty:
     - J (1d4)
     - Q (1d6)
-    - K (1d8)
 3. Then, draw a card as a reward (see "Treasure" below).
 
 ### Treasure:
