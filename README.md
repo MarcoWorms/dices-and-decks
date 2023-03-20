@@ -1,4 +1,4 @@
-# Gheap-games
+# Cheap Games
 
 Games you can play with stuff that is cheap to find!
 
