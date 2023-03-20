@@ -9,8 +9,8 @@ In Dices & Decks, your mission is to scale a treacherous tower teeming with mena
 ## Components
 
 
-- 2 decks of cards. Or use https://deck.of.cards/ as replacement.
-- 1 set of D&D dices. Or use https://diceroll.fun/ as replacement.
+- 2 decks of cards (or use https://deck.of.cards/).
+- 1 set of D&D dices (or use https://diceroll.fun/).
 - A sheet of paper to track your progress and character stats.
 
 ## Setup
