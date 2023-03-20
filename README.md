@@ -6,5 +6,6 @@ Transforms ordinary household objects into the tools you need for epic tabletop 
 
 ## [Dices & Decks](./dices-and-decks.md)
 
-- Tabletop roguelike adventure you can play with common cards and dices!
-- Requires 2 decks of cards and 1 D&D dice set (d4, d6, d8, d10, d12, d20)
+- Roguelike adventure to play solo or with friends
+- Requires 2 decks of cards and 1 set of D&D dices (d4, d6, d8, d10, d12, d20)
+
