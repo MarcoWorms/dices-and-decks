@@ -68,7 +68,6 @@ Draw a card from the game deck and consult the following list for your reward:
     * Sneak: Use once to reroll your initiative roll, take the higher result.
     * Lucky Charm: Use once to add +5 luck when disarming traps.
     * Second Wind: Use once to regain 1d4 health when your hero dies.
-
 * A: Draw two more treasure cards and choose one to keep.
 
 Remember that when you draw a treasure card, you may choose to use the item immediately or save it for later, depending on your strategy and current situation in the game.
