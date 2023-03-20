@@ -105,3 +105,39 @@ Beating the game on prestige 1 unlocks prestige 2, beating 2 unlocks 3, and this
 * A: Tougher Monsters - Monster’s health increase by 2, boss health increase by 10.
 
 If you draw multiple curses of the same type, their effects stack. For example, if you draw two "Weakened Offense" curses, your attack die is reduced by two levels (1d6 -> 1d4 -> no attack).
+
+# Multiplayer Co-op Up to 4 players
+
+## Setup:
+
+- Each player creates their hero and use the same prestige level as other players.
+- Determine the turn order by rolling a d20 for each player. The highest roll goes first, followed by the next highest, and so on.
+- Add 5 additional cards (floors) to the tower for each additional player.
+- Increase monsters' initiative rolls by 1 for each additional player.
+
+## Gameplay:
+
+- If one player dies, the game is over!!
+
+On each floor, follow these steps:
+
+- The active player reveals the first card in the row and resolves the event as described in the original rules.
+- If the event is a Monster or Miniboss, all players participate in the combat, taking turns according to the predetermined turn order. The monster attacks each player in order, and each player has the opportunity to attack the monster on their turn.
+- If the event is a Trap, the active player attempts to disarm it. Other players may assist by spending a luck point, which grants the active player a +1 bonus to their roll.
+- If the event is a Treasure, the active player draws the treasure card and decides whether to use it or save it for later. If they save it, the treasure card is added to their inventory. You can use your cards on other players at any time.
+- When the active player's turn is over, the next player in turn order becomes the active player, revealing the next card in the row and resolving the event.
+
+## Final Boss:
+
+- Increase boss health by 20 per aditional player. (so 1 player 20 helath, 2 players 40 health, etc)
+- Prestige boss health bonus is also multipied by amount of players (so 2 players playing in prestige 2 adds 40 extra health to boss)
+- All players participate in the boss fight, taking turns according to the predetermined turn order.
+- The boss attacks each player in order, and each player has the opportunity to attack the boss on their turn.
+- Players can use their special abilities and items to support each other during the boss fight.
+
+## Prestige:
+
+- For each Prestige level, increase the boss health by 10 times the number of players (e.g., in Prestige 2, the boss has 40 extra health per player).
+- Each player draws one Curse Card per prestige level at the start of a new game. Curses applies only to this player
+
+This multiplayer mode maintains the game's challenge while allowing players to strategize and cooperate. Players can support each other by using their abilities and items, making the game more engaging and enjoyable for all.
