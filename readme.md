@@ -1,6 +1,6 @@
 # Dices & Decks
 
-A tabletop rogue-like adventure to play alone with just dices and cards!
+A tabletop roguelike adventure you can play with common cards and dices!
 
 ## Objective:
 
