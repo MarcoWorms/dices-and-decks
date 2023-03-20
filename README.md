@@ -1,6 +1,6 @@
 # Cheap Games
 
-Games you can play with stuff that is cheap to find!
+Transforms ordinary household objects into the tools you need for epic tabletop battles and thrilling quests. Using cheap material and a little imagination, you'll explore treacherous towers, encounter powerful foes, and discover valuable treasures, all without breaking the bank. Play solo or team up with friends for an accessible and exhilarating gaming experience!
 
 ## [Dices & Decks](./dices-and-decks.md)
 
