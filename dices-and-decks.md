@@ -60,9 +60,9 @@ Draw a card from the game deck and consult the following list for your reward:
 * 2-5: Health Potion. Heal for the card's value + 2.
 * 6-9: Gain a one-time-use weapon. Keep the card and discard it after adding the card's value to your attack roll.
 * 10: Gain a luck point, increasing your luck modifier by 1.
-* J: Improve your defense die by one level (1d4 -> 1d6 -> 1d8…).
-* Q: Improve your attack die by one level (1d6 -> 1d8 -> 1d10…).
-* K: Gain a special ability. Choose one now but use it whenever you want:
+* J: Improve your defense die by one level. d4 -> d6 -> d8…
+* Q: Improve your attack die by one level. d6 -> d8 -> d10…
+* K: Gain a special ability. Choose one now, but you can use it on any turn of yours:
     * Double Die: Use once to double the value of any die.
     * Evade: Use once to avoid any damage.
     * Heal: Use once to restore 1d6 health.
@@ -71,9 +71,9 @@ Draw a card from the game deck and consult the following list for your reward:
     * Second Wind: Use once to regain 1d4 health when your hero dies.
 * A: Draw two more treasure cards and choose one to keep.
 
-Remember that when you draw a treasure card, you may choose to use the item immediately or save it for later, depending on your strategy and current situation in the game.
+Remember that when you draw a treasure card, you may choose to use it immediately or save it for later, depending on your strategy and current situation in the game.
 
-Dice Levels: 1d4 -> 1d6 -> 1d8 -> 1d10 -> 1d12 -> 1d20 -> 2d10 -> 2d12 -> 2d20
+Dice Levels: d4 -> d6 -> d8 -> d10 -> d12 -> 2d8 -> d20 -> 2d10 -> 2d12 -> 3d10 -> 2d20
 
 ## Final Boss and Winning the game
 
@@ -127,7 +127,7 @@ On each floor, follow these steps:
 - The active player reveals the first card in the row and resolves the event as described in the original rules.
 - If the event is a Monster or Miniboss, all players participate in the combat, taking turns according to the predetermined turn order. The monster attacks each player in order, and each player has the opportunity to attack the monster on their turn.
 - If the event is a Trap, the active player attempts to disarm it. Other players may assist by spending a luck point, which grants the active player a +1 bonus to their roll.
-- If the event is a Treasure, the active player draws the treasure card and decides whether to use it or save it for later. If they save it, the treasure card is added to their inventory. You can use your cards on other players at any time.
+- If the event is a Treasure, the active player draws the treasure card and decides whether to use it or save it for later. If they save it, the treasure card is added to their inventory. You can use your treasure and ability cards on other players, but only in your turn.
 - When the active player's turn is over, the next player in turn order becomes the active player, revealing the next card in the row and resolving the event.
 
 ## Multiplayer Final Boss
