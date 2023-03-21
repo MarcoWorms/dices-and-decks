@@ -2,7 +2,7 @@
 
 > Unleash your imagination without unleashing your wallet!
 
-Transforms ordinary household objects into the tools you need for epic tabletop battles and thrilling quests. Using cheap material and a little imagination, you'll explore treacherous towers, encounter powerful foes, and discover valuable treasures, all without breaking the bank. Play solo or team up with friends for an accessible and exhilarating gaming experience!
+Using cheap material and a little imagination, you can explore treacherous towers, encounter powerful foes, and discover valuable treasures, all without breaking the bank. Play solo or team up with friends for an accessible and exhilarating gaming experience!
 
 ## [Dices & Decks](./dices-and-decks.md)
 
@@ -10,4 +10,3 @@ Transforms ordinary household objects into the tools you need for epic tabletop 
 - Requires:
   - 2 decks of cards (or use https://deck.of.cards/)
   - 1 set of D&D dices (or use https://diceroll.fun/)
-
