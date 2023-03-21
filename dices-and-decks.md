@@ -2,12 +2,13 @@
 
 A tabletop roguelike adventure you can play with common cards and dices!
 
+<img width="500" src="https://user-images.githubusercontent.com/7863230/226544593-fc280ebd-04b7-40b9-a98d-6f51eab45872.png" />
+
 ## Objective
 
 In Dices & Decks, your mission is to scale a treacherous tower teeming with menacing monsters, cunning traps, and valuable treasures. Successfully navigate each floor and conquer the boss at the summit to claim victory. However, if your hero's health is depleted to zero, the game ends. Triumphing over the game unlocks new challenges, allowing you to test your skills in increasingly difficult scenarios!
 
 ## Components
-
 
 - 2 decks of cards (or use https://deck.of.cards/).
 - 1 set of D&D dices (or use https://diceroll.fun/).
