@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/7863230/226544424-03f50f5d-3417-436f-aa79-fcdcedb6ee4f.png)
+![logo](https://user-images.githubusercontent.com/7863230/226743567-334ee0d4-faea-4f9d-960c-2cd0ae6e048f.png)
 
 **Unleash your imagination without unleashing your wallet!**
 
