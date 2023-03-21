@@ -6,7 +6,7 @@ Explore treacherous towers, encounter powerful foes, and discover valuable treas
 
 ## [Dices & Decks](./dices-and-decks.md)
 
-Roguelike adventure to play solo or with friends!
+> Roguelike adventure to play solo or with friends!
 
 #### Requires:
 - 2 decks of cards (or use https://deck.of.cards/)
