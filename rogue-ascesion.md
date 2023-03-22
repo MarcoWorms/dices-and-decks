@@ -1,12 +1,12 @@
-# Dices & Decks
+# Rogue Ascension
 
-A tabletop roguelike adventure you can play with common cards and dices!
+> A tabletop roguelike adventure you can play with common cards and dices!
 
 <img width="500" src="https://user-images.githubusercontent.com/7863230/226544593-fc280ebd-04b7-40b9-a98d-6f51eab45872.png" />
 
 ## Objective
 
-In Dices & Decks, your mission is to scale a treacherous tower teeming with menacing monsters, cunning traps, and valuable treasures. Successfully navigate each floor and conquer the boss at the summit to claim victory. However, if your hero's health is depleted to zero, the game ends. Triumphing over the game unlocks new challenges, allowing you to test your skills in increasingly difficult scenarios!
+Your mission is to scale a treacherous tower teeming with menacing monsters, cunning traps, and valuable treasures. Successfully navigate each floor and conquer the boss at the summit to claim victory. However, if your hero's health is depleted to zero, the game ends. Triumphing over the game unlocks new challenges, allowing you to test your skills in increasingly difficult scenarios!
 
 ## Components
 
@@ -84,17 +84,17 @@ After beating the final floor in the tower, you have reached the boss room!
 * Attack: 1d10
 * Defense: 1d6
 
-If you defeat the Boss congratulations, you can proceed to the next Prestige level!
+If you defeat the Boss congratulations, you can proceed to the next Ascesion level!
 
-### Prestige
+### Ascesion
 
-After beating the game you have now leveled up your prestige to 1. This means you can start a new game with 1 Curse Card that will increase the difficulty of your game. The curse card is drawn in step 2 of setup after the tower is drawn.
+After beating the game you have now leveled up your ascesion to 1. This means you can start a new game with 1 Curse Card that will increase the difficulty of your game. The curse card is drawn in step 2 of setup after the tower is drawn.
 
-Beating the game on prestige 1 unlocks prestige 2, beating 2 unlocks 3, and this can go on infinitely. Each prestige: 
+Beating the game on ascesion 1 unlocks ascesion 2, beating 2 unlocks 3, and this can go on infinitely. Each ascesion: 
 
 - Adds 1 more curse card to be drawn on the start of a new game.
-- Increase boss health by 10 times the prestige level, so in prestige 2 for example the boss has 20 extra health.
-- Increase monsters initiative roll by 2 for each prestige level.
+- Increase boss health by 10 times the ascesion level, so in ascesion 2 for example the boss has 20 extra health.
+- Increase monsters initiative roll by 2 for each ascesion level.
 
 ### Curse Cards
 
@@ -114,7 +114,7 @@ By appliying the following adjustments to the game's rules you can play together
 
 ## Multiplayer Setup
 
-- Each player creates their hero and use the same prestige level as other players.
+- Each player creates their hero and use the same ascesion level as other players.
 - Determine the turn order by rolling a d20 for each player. The highest roll goes first, followed by the next highest, and so on.
 - Add 5 additional cards (floors) to the tower for each additional player.
 - Increase monsters' initiative rolls by 1 for each additional player.
@@ -134,14 +134,14 @@ On each floor, follow these steps:
 ## Multiplayer Final Boss
 
 - Increase boss health by 20 per aditional player. (so 1 player 20 helath, 2 players 40 health, etc)
-- Prestige boss health bonus is also multipied by amount of players (so 2 players playing in prestige 2 adds 40 extra health to boss)
+- Ascesion boss health bonus is also multipied by amount of players (so 2 players playing in ascesion 2 adds 40 extra health to boss)
 - All players participate in the boss fight, taking turns according to the predetermined turn order.
 - The boss attacks each player in order, and each player has the opportunity to attack the boss on their turn.
 - Players can use their special abilities and items to support each other during the boss fight.
 
-## Multiplayer Prestige
+## Multiplayer Ascesions
 
-- For each Prestige level, increase the boss health by 10 times the number of players (e.g., in Prestige 2, the boss has 40 extra health per player).
-- Each player draws one Curse Card per prestige level at the start of a new game. Curses applies only to this player
+- For each ascesion level, increase the boss health by 10 times the number of players (e.g., in ascesion 2, the boss has 40 extra health per player).
+- Each player draws one Curse Card per ascesion level at the start of a new game. Curses applies only to this player
 
 This multiplayer mode maintains the game's challenge while allowing players to strategize and cooperate. Players can support each other by using their abilities and items, making the game more engaging and enjoyable for all.
