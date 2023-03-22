@@ -2,7 +2,7 @@
 
 Explore treacherous towers, encounter powerful foes, and discover valuable treasures, all without breaking the bank. Play solo or team up with friends for an accessible and exhilarating gaming experience! Thrifty Games is a project that attempts to make modern games mechanics accessible by reimagining them using cheap and easy-to-find material.
 
-## [Ascension of the Rogues](./dices-and-decks.md)
+## [Rogue Ascension](./rogue-ascension.md)
 
 > Roguelike adventure to play solo or with friends!
 
